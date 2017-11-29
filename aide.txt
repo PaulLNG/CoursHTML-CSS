@@ -1,0 +1,72 @@
+<input type="radio" name="test" value="male">
+	<input type="radio" name="test" value="femelle">
+	
+	<input type="checkbox" name="test2" value="check">
+	<input type="checkbox" name="test2" value="check1">
+	
+	<select name="country" multiple="true" size="10">
+		<option value="None"> Sélectionne un pays </option> 
+		
+		<optgroup label="Europe">
+		<option value="France"> France </option> 
+		<option value="Espagne"> Espagne </option> 
+		<option value="Ukraine"> Ukraine </option> 
+		</optgroup>
+		
+		<optgroup label="Océanie">
+		<option value="Australie"> Australie </option> 
+		<option value="Nouvelle Zéelande"> Nouvelle Zéelande </option> 
+		</optgroup>
+		
+		<optgroup label="Amérique du Sud">
+		<option value="Mexique"> Mexique </option> 
+		</optgroup>
+		
+		<optgroup label="Asie">
+		<option value="Chine"> Chine </option> 
+		<option value="Japon"> Japon </option> 
+		</optgroup>
+		
+		
+	</select>
+
+	<dl> 
+
+		<dt> Terme 1 </dt>
+			<dd> Definition du terme 1 </dd>
+		<dt> Terme 2 </dt>
+			<dd> Definition du terme 2 </dd>
+
+	</dl>
+
+	<div> Bonjour je m'appelle Paul , <br> j'ai 20 ans.</div>
+	<div> Je suis étudiant à l'école IPSSI </div>
+
+	<table border="1" width="50%"> 
+
+		<tr> 
+			<th> Nom </th>
+			<th> Prénom </th> 
+		</tr>
+		
+		<tr> 
+			<td> LANGE </td>
+			<td> Paul </td>
+			
+		</tr>
+		
+		<tr> 
+			<td> LANGE </td>
+			<td> Pierre </td>
+		</tr>
+		
+	</table>	 
+		
+			<pre>
+		TEST
+		TEST 
+		TEST
+		TEST
+	</pre>
+     
+	
