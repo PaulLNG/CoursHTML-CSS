@@ -1,0 +1,114 @@
+body h1 {
+  color: #046380; }
+
+h2 {
+  margin-top: 5px; }
+
+.bloc {
+  display: flex; }
+
+body {
+  background-color: #EDF7F2;
+  color: #046380;
+  font-family: verdana; }
+
+.introduction {
+  margin: 20px;
+  padding: 20px;
+  margin-left: 20px;
+  width: 15%;
+  border: 3px solid grey;
+  height: 550px; }
+
+.articleMain {
+  margin-top: 20px;
+  padding: 20px;
+  width: 60%;
+  height: 550px;
+  border: 3px solid grey; }
+
+.connexion {
+  margin: 20px;
+  padding: 20px;
+  width: 15%;
+  border: 3px solid grey;
+  height: 550px; }
+
+.textInvisible {
+  color: #EDF7F2; }
+
+.textInvisible:hover {
+  color: #046380; }
+
+a {
+  color: #046380; }
+
+a:hover {
+  color: red; }
+
+.BlocArticles {
+  display: flex;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+  margin-left: 45px;
+  margin-right: 45px;
+  padding: 20px;
+  width: 1340px;
+  height: 650px; }
+
+.grandbloc {
+  display: flex; }
+
+.petitBloc {
+  margin: 20px;
+  padding: 20px;
+  width: 50px;
+  height: 50px;
+  float: right;
+  border: 3px solid grey; }
+
+.petitBlocFixed {
+  margin: 250px;
+  padding: 20px;
+  width: 50px;
+  height: 50px;
+  position: fixed;
+  border: 3px solid grey; }
+
+.blocImage img {
+  margin: 10px;
+  padding: 20px; }
+
+.article {
+  margin: 15px;
+  padding: 10px;
+  width: 390px;
+  height: 250px;
+  border: 3px solid grey; }
+
+.hr {
+  width: 40%; }
+
+.connexionImage, .inscriptionImage, .newsletterImage {
+  display: inline-block;
+  background: url("sprite/sprite.png") no-repeat;
+  overflow: hidden;
+  text-indent: -9999px;
+  text-align: left; }
+
+.connexionImage {
+  background-position: -20px -0px;
+  width: 30px;
+  height: 30px; }
+
+.inscriptionImage {
+  background-position: -20px -50px;
+  width: 30px;
+  height: 30px; }
+
+.newsletterImage {
+  background-position: -20px -100px;
+  width: 30px;
+  height: 30px; }
+
+/*# sourceMappingURL=style2.css.map */

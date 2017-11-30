@@ -1,0 +1,5 @@
+Compilé fichier .scss 
+
+commande :
+
+sass --watch "chemin absolu du fichier"

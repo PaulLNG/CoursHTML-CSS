@@ -55,7 +55,7 @@ if(isset($_POST["connexion"]) )
 	<head>
         <meta charset="utf-8">
         <title> Le Journal du FAKE </title>
-        <link rel="stylesheet" href="style.css">
+        <link rel="stylesheet" href="style2.css">
         <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css">
         <script src="script.js"></script>
     </head>
@@ -81,9 +81,12 @@ if(isset($_POST["connexion"]) )
 			<br><br> 
 		
 			<img src="macrondanse.gif" width ="200"> <br>
+			
 			<center> <em>Notre beau président </em>  <br> <br> </center>
-			<img src="trump.gif" width ="200"> <br>
+				
+				<img src="trump.gif" width ="200"> <br>
 			<center> 
+				
 				<em> Jésus Christ </em> <br><br> 
 			</center>
 			
